@@ -36,7 +36,7 @@
 
 ## 🎮 `FEATURED PROJECTS`
 
-### 👁 NextDoor
+### ⍈ NextDoor
 
 **Suspense • Exploration • Narrative • Puzzles**
 
@@ -89,27 +89,26 @@ A game project inspired by dark fantasy, following a warrior facing a mysterious
 
 ---
 
-## 🩸 `CURRENTLY`
+## `CURRENTLY`
 
 ```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│  🔴 Learning                                │
-│     └─ Game Development                      │
-│     └─ 3D / Low Poly                         │
-│     └─ Game Design                            │
-│                                              │
-│  ⚫ Creating                                │
-│     └─ New game projects                     │
-│     └─ Characters & environments              │
-│     └─ Stories & game concepts                │
-│                                              │
-│  🩸 Exploring                               │
-│     └─ Horror                                 │
-│     └─ Psychological narratives               │
-│     └─ Atmospheric game design                │
-│                                              │
-╰──────────────────────────────────────────────╯
+────────── ⋆⋅☆⋅⋆ ─────────
+                                              
+ Learning   
+  └─ Game Development    
+  └─ 3D / Low Poly     
+  └─ Game Design   
+                  
+ Creating            
+  └─ New game projects  
+  └─ Characters & environments  
+  └─ Stories & game concepts  
+                     
+ Exploring                
+  └─ Horror                 
+  └─ Psychological narratives
+  └─ Atmospheric game design       
+                                              
 ```
 
 ---
