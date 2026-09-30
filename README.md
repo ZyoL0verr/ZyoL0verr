@@ -1,43 +1,38 @@
 <div align="center">
 
-# 怒り 𝒁𝒚𝒐𝑳0𝒗𝒆𝒓𝒓
+# 怒り  𝒁𝒚𝒐𝑳0𝒗𝒆𝒓𝒓
 
-### `𝘎𝘢𝘮𝘦 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 • 𝘎𝘢𝘮𝘦 𝘋𝘦𝘴𝘪𝘨𝘯𝘦𝘳 • 𝘋𝘪𝘨𝘪𝘵𝘢𝘭 𝘈𝘳𝘵𝘪𝘴𝘵`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:3b0000,100:8b0000&height=180&section=header&text=𝑬𝒍𝒐𝒂𝒉%20𝑻𝒆𝒏𝒐́𝒓𝒊𝒐&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Creating%20games%20%7C%20Building%20worlds%20%7C%20Telling%20stories&descAlignY=60&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0%3A050505%2C50%3A240000%2C100%3A660000&section=header&reversal=false&text=%F0%9D%91%AC%F0%9D%92%8D%F0%9D%92%90%F0%9D%92%82%F0%9D%92%89+%F0%9D%91%BB%F0%9D%92%86%F0%9D%92%8F%F0%9D%92%90%CC%81%F0%9D%92%93%F0%9D%92%8A%F0%9D%92%90&textBg=false&fontColor=FFFFFF&fontSize=47&fontAlign=50&fontAlignY=41&animation=fadeIn&rotate=0&stroke=1e0202&strokeWidth=2&desc=%F0%9D%95%B2%F0%9D%96%86%F0%9D%96%92%F0%9D%96%8A+%F0%9D%95%AF%F0%9D%96%8A%F0%9D%96%98%F0%9D%96%8E%F0%9D%96%8C%F0%9D%96%93%F0%9D%96%8A%F0%9D%96%97+%2C+%F0%9D%95%B2%F0%9D%96%86%F0%9D%96%92%F0%9D%96%8A+%F0%9D%95%AC%F0%9D%96%97%F0%9D%96%99%F0%9D%96%8E%F0%9D%96%98%F0%9D%96%99+%2C+%F0%9D%95%B2%F0%9D%96%86%F0%9D%96%92%F0%9D%96%8A+%F0%9D%95%AF%F0%9D%96%8A%F0%9D%96%9B%F0%9D%96%8A%F0%9D%96%91%F0%9D%96%94%F0%9D%96%95%F0%9D%96%8A%F0%9D%96%97&descSize=33&descAlign=50&descAlignY=58" width="100%">
 
 </div>
 
----
+─────────────────────────────────────────── ⋆⋅☆⋅⋆ ──────────────────────────────────────────
 
-##  `ABOUT ME`
+##  `𝑨𝒃𝒐𝒖𝒕 𝑴𝒆`
 
-─── ⋆⋅☆⋅⋆ ──
+
 
 > **Hello! I'm Eloah.**
 
-🎮 I'm a **Game Development student** from Brazil, passionate about creating games that combine **art, narrative and atmosphere**.
+▷ I'm a **Game Development student** from Brazil, passionate about creating games that combine **art, narrative and atmosphere**.
 
-🎨 I enjoy working with **digital art, game design, storytelling, 2D, 3D and low-poly aesthetics**.
-
-🧠 I'm especially interested in games that can make players **feel something**, whether it's curiosity, discomfort, fear or simply the desire to discover what happens next.
+♫ I enjoy working with **digital art, game design, storytelling, 2D, and sound design**.
 
 <br>
 
-```text
-╭────────────────────────────────────────────
-│                                            
-│   👾 GAME DEVELOPMENT                      
-│   🖌 DIGITAL ART                           
-│   🕮 NARRATIVE DESIGN                      
-│   ⛧ HORROR & SUSPENSE                     
-│   𒌐 DARK ATMOSPHERES                      
-│   👁 WORLD BUILDING                        
-│                                            
-╰────────────────────────────────────────────
-```
 
----
+```text
+
+───────── ⋆⋅☆⋅⋆ ────────
+
+🖳 𝐆𝐀𝐌𝐄 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐌𝐄𝐍𝐓
+🖌 𝐃𝐈𝐆𝐈𝐓𝐀𝐋 𝐀𝐑𝐓
+🕮 𝐍𝐀𝐑𝐑𝐀𝐓𝐈𝐕𝐄 𝐃𝐄𝐒𝐈𝐆𝐍
+⛧ 𝐇𝐎𝐑𝐑𝐎𝐑 & 𝐒𝐔𝐒𝐏𝐄𝐍𝐒𝐄
+𒌐 𝐃𝐀𝐑𝐊 𝐀𝐓𝐌𝐎𝐒𝐏𝐇𝐄𝐑𝐄𝐒
+👁 𝐖𝐎𝐑𝐋𝐃 𝐁𝐔𝐈𝐋𝐃𝐈𝐍𝐆
+
+```
 
 ## 🎮 `FEATURED PROJECTS`
 
@@ -88,7 +83,7 @@ A game project inspired by dark fantasy, following a warrior facing a mysterious
 <div align="center">
 
 `GAME DEVELOPMENT`　 `GAME DESIGN`　 `DIGITAL ART`
-`PIXEL ART`　 `LOW POLY`　 `NARRATIVE DESIGN`
+`PIXEL ART`  `NARRATIVE DESIGN`
 
 </div>
 
@@ -146,8 +141,7 @@ Let's connect and create something together. 🩸
 
 ★ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
 
-<sub>“We are the æ.” — aespa</sub>
-
+<sub> “𝑫𝒆𝒇𝒊𝒏𝒆 𝒏𝒐𝒘 𝒎𝒚 𝒐𝒘𝒏 𝒄𝒐𝒎𝒑𝒍𝒆𝒕𝒆.” — æspa</sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,50:3b0000,100:0d0d0d&height=120&section=footer" width="100%"/>
+[<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,50:3b0000,100:0d0d0d&height=120&section=footer" width="100%"/>](https://capsule-render.vercel.app/api?type=waving&height=250&color=0%3A050505%2C50%3A240000%2C100%3A660000&section=footer&reversal=false&text=%F0%9F%96%82+tenorioinacioeloah%40gmail&textBg=false&fontColor=660000&fontSize=27&fontAlign=77&fontAlignY=89&rotate=0&stroke=111111&descSize=33&descAlign=50&descAlignY=58)
